@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NotSnipc
-- 👀 @snipc discord
+- 👋 Hi, I’m Shaurya, I go by snipc online.
+- 👀 react me at : snipc.mail@proton.me
 
 <!---
 NotSnipc/NotSnipc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
