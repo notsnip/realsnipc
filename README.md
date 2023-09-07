@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Shaurya, I go by snipc online.
-- 👀 react me at : snipc.mail@proton.me
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=snipc&data=followers,repositories,stars,commits&theme=darkmode" />
+</p>
+
 
 <!---
 NotSnipc/NotSnipc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
