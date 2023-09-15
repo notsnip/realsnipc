@@ -1,3 +1,5 @@
+# Hello Folk👋
+I am ~~not~~ snipc
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=NOTsnipc&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
