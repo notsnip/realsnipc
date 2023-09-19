@@ -1,7 +1,7 @@
 # Hello Folk👋
-I am ~~not~~ snipc
+I am Shaurya :D
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=NOTsnipc&data=followers,repositories,stars,commits&theme=darkmode" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=realsnipc&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
 
 
