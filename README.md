@@ -11,6 +11,6 @@
 - 📈 I'm a tech Enthusiast!
 - 💻 I am high school student studying in Meerut,India.
 - 🔭 Currently learning Full Stack Development!
-- 🌱 My Internet home :http://snipc.me.
+- 🌱 My Internet home is http://snipc.me.
 - 🥅 I found animes great, they serve as my main entertainment!.
-- ⚡ Learning something new week keps my dopamine levels high. Here is my skill docs: https://lil.snipc.me
+- ⚡ Learning something new week keps my dopamine levels high. Here's my skill garden: https://lil.snipc.me
