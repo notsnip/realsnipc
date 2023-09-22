@@ -11,4 +11,4 @@
 </p>
 
 ------------
-<p align="center">https://snipc.me</p>
+<p align="center">http://snipc.me</p>
