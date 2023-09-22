@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Namaster. I'm <a href="https://github.com/realsnipc">Shaurya</a>.<br> I'm a aspiring Developer from Bharat(India).<br><br>#webdev, #anime, #student</samp>
+  <samp>Namastee. I'm <a href="https://github.com/realsnipc">Shaurya</a>.<br> I'm a aspiring Developer from Bharat (India).<br><br>#webdev, #anime, #student</samp>
   <br>
   <br>
   <br>
