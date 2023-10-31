@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Namaste. I'm <a href="https://github.com/realsnipc">Shaurya</a>.<br> I'm a aspiring Developer from Bharat (India).<br><br>#frontend, #backend, #cloud</samp>
+  <samp>Namaste. I'm <a href="https://github.com/realsnipc">Shaurya</a>.<br> I like to create epic stuff<br><br>#frontend, #backend, #cloud</samp>
   <br>
   <br>
 <!--   <br>
