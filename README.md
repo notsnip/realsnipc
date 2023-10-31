@@ -8,8 +8,3 @@
 <!--   <br>
   <br> -->
 <!--   <img src="preview.gif" width="350"/> -->
-<!--   <img src="https://i.gifer.com/2iFb.gif" width="350" /> -->
-</p>
-
-------------
-<p align="center">http://snipc.me</p>
