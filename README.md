@@ -3,8 +3,8 @@
 <p><samp>I'm passionate about <b>Cloud Engineering</b>, <b>Web Development</b> and <b>Open Source</b>.</samp></p>
 <hr>
 <p>
-  <a href="https://br.linkedin.com/in/felipevpeters">
-    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
+  <a href="https://snipc.me">
+    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://svg-files.pixelied.com/cef5a783-c304-437c-8e2f-e4625903a478/thumb-256px.png" />
   </a>
   <a href="mailto:fveronezipeters@gmail.com">
     <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
@@ -28,5 +28,3 @@
     <img align="left" alt="HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerearth.svg" />
   </a>
 </p>
-
-⭐️ From [fveronezipeters](https://github.com/[fveronezipeters])
