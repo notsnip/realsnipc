@@ -6,8 +6,8 @@
   <a href="https://snipc.me">
     <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://svg-files.pixelied.com/cef5a783-c304-437c-8e2f-e4625903a478/thumb-256px.png" />
   </a>
-  <a href="mailto:fveronezipeters@gmail.com">
-    <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+  <a href="mailto:mail@snipc.me">
+    <img align="left" alt="GMail" width="22px" src="https://svg-files.pixelied.com/71835f9a-51de-4a2d-b946-0974df3848d3/thumb-256px.png" />
   </a>
   <a href="https://instagram.com/felipevpeters">
     <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
